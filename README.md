@@ -3,3 +3,5 @@
 31/8 = custom_validator_1
 
 2/9 = online_shoping_application and date_control_ex
+
+9/9 = class_ex
